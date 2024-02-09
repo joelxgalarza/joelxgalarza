@@ -11,4 +11,5 @@ An aspiring software engineer and computer science student at Western Governors 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been running under 6 minutes in the mile for 5 years now (flex)
 
-START_SECTION:waka--><!--END_SECTION:waka
+START_SECTION:waka 
+END_SECTION:waka
