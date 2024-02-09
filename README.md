@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+I'm Joel Galarza
 
-**joelxgalarza/joelxgalarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+An aspiring software engineer and computer science student at Western Governors University.
 
 - 🔭 I’m currently working on Auri a tool that automates content creation and posting
 - 🌱 I’m currently learning fun subjects like calculus, web development, and how to implement graph api
