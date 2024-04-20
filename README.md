@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Joel Galarza and I'm an aspiring Software Engineer interested in ML for social good.</h2>
+<h2 align="center">Hi 👋! My name is Joel Galarza and I'm an aspiring Software Engineer</h2>
 
 ###
 
