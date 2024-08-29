@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Joel Galarza, I like building things that can make people money. Reack out to me over linkedin or email to make something :)</h2>
+<h2 align="center">Hi 👋! My name is Joel Galarza; I like building solutions that make people money. Reach out to me over email or LinkedIn to make something</h2>
 
 ###
 
