@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Joel Galarza and I'm an aspiring Software Engineer</h2>
+<h2 align="center">Hi 👋! My name is Joel Galarza, I like building things that can make people money. Reack out to me over linkedin or email to make something :)</h2>
 
 ###
 
