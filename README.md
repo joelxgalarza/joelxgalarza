@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Welcome to my little coding corner of the internet. Make yourself cozy and reach out to have a chat :)</h2>
+<h2 align="center">I push things that make myself or others money</h2>
 
 ###
 
